@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Isaac",
+    "last_name": "Caceres",
+    "age": 30,
+    "cars": [
+      "Mazda",
+      "Toyota"
+    ],
+    "career": "Ing. Sistemas",
+    "single": true,
+    "address": {
+      "country": "Venezuela",
+      "city": "Zulia",
+      "street": "Calle 100",
+      "coordinates": {
+        "latitude": 10.123456,
+        "longitude": -10.123456
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ana",
+    "last_name": "Perez",
+    "age": 24,
+    "cars": [
+      "Chevrolet",
+      "Hyundai"
+    ],
+    "career": "Arquitectura",
+    "single": false,
+    "address": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "street": "Carrera 45",
+      "coordinates": {
+        "latitude": 4.65,
+        "longitude": -74.1
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Carlos",
+    "last_name": "Mendoza",
+    "age": 28,
+    "cars": [
+      "Ford"
+    ],
+    "career": "Medicina",
+    "single": true,
+    "address": {
+      "country": "México",
+      "city": "CDMX",
+      "street": "Avenida Reforma",
+      "coordinates": {
+        "latitude": 19.432608,
+        "longitude": -99.133209
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Laura",
+    "last_name": "Gomez",
+    "age": 22,
+    "cars": [
+      "Honda",
+      "Mazda"
+    ],
+    "career": "derecho",
+    "single": false,
+    "address": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "street": "Avenida 9 de Julio",
+      "coordinates": {
+        "latitude": -34.603684,
+        "longitude": -58.381559
+      }
+    }
+  }
+]
